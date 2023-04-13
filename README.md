@@ -51,6 +51,4 @@ Forkea el repositorio.
 Cree una nueva rama con su función: `git checkout -b feature/nombre-de-la-funcion`.
 Haga los cambios necesarios y confirme los cambios: git commit -am 'Agregue alguna función'.
 Empuje la rama: git push origin feature/nombre-de-la-funcion.
-Envíe una solicitud de extracción.
-Licencia
-Este proyecto está bajo la Licencia MIT.
+
