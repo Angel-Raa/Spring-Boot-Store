@@ -16,7 +16,9 @@ Configuración de la base de datos
 Antes de ejecutar la aplicación, debe configurar la base de datos. Abra el archivo application.properties ubicado en src/main/resources y modifique las siguientes propiedades:
 
 `spring.datasource.url=jdbc:postgresql://localhost:5432/tienda` 
- `spring.datasource.username=usuario` 
+
+`spring.datasource.username=usuario` 
+ 
 `spring.datasource.password=contraseña`
 
 Reemplace usuario y contraseña con sus credenciales de PostgreSQL.
