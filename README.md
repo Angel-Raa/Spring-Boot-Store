@@ -15,9 +15,7 @@ Para clonar este repositorio, abra su terminal y ejecute el siguiente comando:
 Configuración de la base de datos
 Antes de ejecutar la aplicación, debe configurar la base de datos. Abra el archivo application.properties ubicado en src/main/resources y modifique las siguientes propiedades:
 
-`spring.datasource.url=jdbc:postgresql://localhost:5432/tienda
-spring.datasource.username=usuario
-spring.datasource.password=contraseña
+`spring.datasource.url=jdbc:postgresql://localhost:5432/tienda spring.datasource.username=usuario spring.datasource.password=contraseña
 `
 Reemplace usuario y contraseña con sus credenciales de PostgreSQL.
 
@@ -46,7 +44,7 @@ Contribución
 Si desea contribuir a este proyecto, siga los siguientes pasos:
 
 Forkea el repositorio.
-Cree una nueva rama con su función: git checkout -b feature/nombre-de-la-funcion.
+Cree una nueva rama con su función: `git checkout -b feature/nombre-de-la-funcion`.
 Haga los cambios necesarios y confirme los cambios: git commit -am 'Agregue alguna función'.
 Empuje la rama: git push origin feature/nombre-de-la-funcion.
 Envíe una solicitud de extracción.
