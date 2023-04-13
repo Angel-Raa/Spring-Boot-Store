@@ -36,8 +36,8 @@ Una vez que la aplicación esté en ejecución, puede usarla para realizar las s
 - Agregar productos al carrito de compras
 - Realizar pedidos
 - Tecnologías utilizadas
-Este proyecto utiliza las siguientes tecnologías:
 
+#### Este proyecto utiliza las siguientes tecnologías:
 - Java 19
 - Spring Boot 3
 - Spring Security
