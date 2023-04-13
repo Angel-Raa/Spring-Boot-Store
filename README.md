@@ -1,7 +1,7 @@
 # Documentación del proyecto Spring Boot Store
 
 ### Instalación y configuración
-Requisitos previos
+#### Requisitos previos
 Antes de comenzar con la instalación y configuración de este proyecto, asegúrese de tener lo siguiente:
 
 Java 19 instalado en su sistema
@@ -27,15 +27,15 @@ Ejecutar la aplicación
 Para ejecutar la aplicación, abra su terminal y vaya al directorio raíz del proyecto. Luego, ejecute el siguiente comando:
 Esto iniciará la aplicación en http://localhost:8080.
 
-Uso
+### Uso
 Una vez que la aplicación esté en ejecución, puede usarla para realizar las siguientes operaciones:
 
-Registro de usuarios
-Inicio de sesión de usuarios
-Ver productos
-Agregar productos al carrito de compras
-Realizar pedidos
-Tecnologías utilizadas
+- Registro de usuarios
+- Inicio de sesión de usuarios
+- Ver productos
+- Agregar productos al carrito de compras
+- Realizar pedidos
+- Tecnologías utilizadas
 Este proyecto utiliza las siguientes tecnologías:
 
 - Java 19
@@ -44,7 +44,7 @@ Este proyecto utiliza las siguientes tecnologías:
 - JWT
 - PostgreSQL
 
-Contribución
+### Contribución
 Si desea contribuir a este proyecto, siga los siguientes pasos:
 
 Forkea el repositorio.
